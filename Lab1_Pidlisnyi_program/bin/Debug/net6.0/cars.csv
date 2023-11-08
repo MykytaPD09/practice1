@@ -1,0 +1,3 @@
+Make,Model,Year,Price,Type,AdditionalInfo,FullInfo,IsAvailable
+bmw,x5,2021,21000,SUV,no,"2021 bmw x5 (SUV): $21000,00",True
+ford,focus,2011,10000,Sedan,no,"2011 ford focus (Sedan): $10000,00",True

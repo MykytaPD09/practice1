@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SI84IJRaWOLXT5EkSGRzB2F7lO4XLBFHQScz8VKAaCg+aradkIs6Qziq1n6dI+muU3n+U4lTLHTxako/KFp6Q==",
+  "success": true,
+  "projectFilePath": "D:\\2course_KHAI\\OOP\\lab1\\Lab1_Pidlisnyi_program\\Lab1_Pidlisnyi_program\\Lab1_Pidlisnyi_program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

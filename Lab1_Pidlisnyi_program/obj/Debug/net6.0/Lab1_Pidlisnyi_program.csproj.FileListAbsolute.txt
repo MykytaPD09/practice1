@@ -1,0 +1,17 @@
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\bin\Debug\net6.0\Lab1_Pidlisnyi_program.exe
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\bin\Debug\net6.0\Lab1_Pidlisnyi_program.deps.json
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\bin\Debug\net6.0\Lab1_Pidlisnyi_program.runtimeconfig.json
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\bin\Debug\net6.0\Lab1_Pidlisnyi_program.dll
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\bin\Debug\net6.0\Lab1_Pidlisnyi_program.pdb
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.AssemblyInfoInputs.cache
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.AssemblyInfo.cs
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.csproj.CoreCompileInputs.cache
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.dll
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\refint\Lab1_Pidlisnyi_program.dll
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.pdb
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.genruntimeconfig.cache
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\ref\Lab1_Pidlisnyi_program.dll
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\bin\Debug\net6.0\CsvHelper.dll
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.csproj.AssemblyReference.cache
+D:\2course_KHAI\OOP\lab1\Lab1_Pidlisnyi_program\Lab1_Pidlisnyi_program\obj\Debug\net6.0\Lab1_Pidlisnyi_program.csproj.CopyComplete

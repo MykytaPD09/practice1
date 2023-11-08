@@ -1,0 +1,22 @@
+[
+  {
+    "Make": "bmw",
+    "Model": "x5",
+    "Year": 2021,
+    "Price": 21000,
+    "Type": 1,
+    "AdditionalInfo": "no",
+    "FullInfo": "2021 bmw x5 (SUV): $21000,00",
+    "IsAvailable": true
+  },
+  {
+    "Make": "ford",
+    "Model": "focus",
+    "Year": 2011,
+    "Price": 10000,
+    "Type": 0,
+    "AdditionalInfo": "no",
+    "FullInfo": "2011 ford focus (Sedan): $10000,00",
+    "IsAvailable": true
+  }
+]
