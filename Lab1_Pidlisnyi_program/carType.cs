@@ -7,6 +7,7 @@
         Sports,
         Truck,
         Unknown,
-        Hatchback
+        Hatchback,
+        CUV
     }
 }

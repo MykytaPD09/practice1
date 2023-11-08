@@ -356,6 +356,7 @@ class Program
         }
     }
 
+    //додавання автівки
     static void AddCarInteractively()
     {
         if (cars.Count < maxCars)
@@ -430,6 +431,7 @@ class Program
         }
     }
 
+    //виведення авто
     static void DisplayCars()
     {
         Console.WriteLine("\nList of Cars:");
