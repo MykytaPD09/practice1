@@ -444,6 +444,7 @@ class Program
         Console.WriteLine($"Total number of cars created: {Car.ObjectCount}");
     }
 
+    //пошук автівки за критеріями
     static void SearchCars()
     {
         Console.WriteLine("\nSearch Cars:");
@@ -522,6 +523,7 @@ class Program
         }
     }
 
+    //вивід шуканого результату
     static void DisplaySearchResults(List<Car> results)
     {
         if (results.Count == 0)
