@@ -553,6 +553,7 @@ class Program
         }
     }
 
+    //демонстрація поведінки
     static void DemonstrateBehavior()
     {
         Console.WriteLine("\nDemonstrating Behavior:");
