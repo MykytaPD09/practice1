@@ -445,6 +445,13 @@ class Program
     }
 
     //пошук автівки за критеріями
+    /// <summary>
+    /// "1 - Search by Make");
+    /// Console.WriteLine("2 - Search by Model");
+    ///  Console.WriteLine("3 - Search by Year");
+    ///  Console.WriteLine("4 - Search by Price");
+    ///  Console.WriteLine("5 - Search by Type");
+    /// </summary>
     static void SearchCars()
     {
         Console.WriteLine("\nSearch Cars:");
